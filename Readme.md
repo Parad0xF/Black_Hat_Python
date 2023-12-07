@@ -16,7 +16,7 @@ Penetration Testing Resources
 
 Explore a List of Outstanding Resources for Penetration Testing and Proactive Cybersecurity Tactics
 
-Penetration testing, also known as ethical hacking, involves conducting approved, simulated cyberattacks on computer systems and their physical setups to identify and address security flaws and vulnerabilities. If you uncover any security issues during these tests, we encourage you to report them.
+Penetration testing, also known as ethical hacking, involves conducting approved, simulated cyberattacks on computer systems and their physical setups to identify and address security flaws and vulnerabilities. 
 
 
 ## 📫 Connect with Me
@@ -30,7 +30,7 @@ Penetration testing, also known as ethical hacking, involves conducting approved
 
 ## Contents
 - [🌟 What's Inside?](#-whats-inside)
-- [� Connect with Me](#-connect-with-me)
+- [📫 Connect with Me](#-connect-with-me)
 - [Contents](#contents)
 - [Android Utilities](#android-utilities)
 - [Anonymity Tools](#anonymity-tools)
