@@ -1,13 +1,12 @@
-# Awesome Penetration Testing [![Awesome](https://awesome.re/badge-flat2.svg)](https://genomex.hashnode.dev/)
+# Awesome Penetration Testing [![Awesome](https://awesome.re/badge-flat2.svg)](https://raensec.com/)
 
-> A collection of awesome penetration testing and offensive cybersecurity resources.
+"Explore Our Curated List of Outstanding Resources for Penetration Testing and Proactive Cybersecurity Tactics
 
-[Penetration testing](https://en.wikipedia.org/wiki/Penetration_test) is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities. Should you discover a vulnerability, please follow [this guidance](https://kb.cert.org/vuls/guidance/) to report it responsibly.
+Penetration testing, also known as ethical hacking, involves conducting approved, simulated cyberattacks on computer systems and their physical setups to identify and address security flaws and vulnerabilities. If you uncover any security issues during these tests, we encourage you to report them."
 
 
 ## Contents
-
-- [Awesome Penetration Testing ![Awesome](https://awesome.re)](#awesome-penetration-testing-)
+- [Awesome Penetration Testing ](#awesome-penetration-testing-)
   - [Contents](#contents)
   - [Android Utilities](#android-utilities)
   - [Anonymity Tools](#anonymity-tools)
@@ -88,6 +87,7 @@
     - [Web Exploitation Books](#web-exploitation-books)
   - [Windows Utilities](#windows-utilities)
   - [License](#license)
+
 
 ## Android Utilities
 
