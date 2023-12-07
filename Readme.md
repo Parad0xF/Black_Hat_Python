@@ -1,12 +1,12 @@
-# Awesome Penetration Testing [![Awesome](https://awesome.re/badge-flat2.svg)](https://raensec.com/)
+# Penetration Testing Resources [![Awesome](https://awesome.re/badge-flat2.svg)](https://raensec.com/)
 
-"Explore Our Curated List of Outstanding Resources for Penetration Testing and Proactive Cybersecurity Tactics
+Explore a List of Outstanding Resources for Penetration Testing and Proactive Cybersecurity Tactics
 
-Penetration testing, also known as ethical hacking, involves conducting approved, simulated cyberattacks on computer systems and their physical setups to identify and address security flaws and vulnerabilities. If you uncover any security issues during these tests, we encourage you to report them."
+Penetration testing, also known as ethical hacking, involves conducting approved, simulated cyberattacks on computer systems and their physical setups to identify and address security flaws and vulnerabilities. If you uncover any security issues during these tests, we encourage you to report them.
 
 
 ## Contents
-- [Awesome Penetration Testing ](#awesome-penetration-testing-)
+- [Penetration Testing Resources ](#penetration-testing-resources-)
   - [Contents](#contents)
   - [Android Utilities](#android-utilities)
   - [Anonymity Tools](#anonymity-tools)
